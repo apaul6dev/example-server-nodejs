@@ -9,7 +9,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # dotenv (variables de entorno)
-.env
+#.env
 
 # Directorios de producción / builds
 dist/
